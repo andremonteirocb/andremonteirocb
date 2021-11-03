@@ -1,4 +1,4 @@
-![andremonteirocb's GitHub stats](https://github-readme-stats.vercel.app/api?username=andremonteirocb&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andremonteirocb&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremonteirocb&layout=compact)](https://github.com/andremonteirocb/github-readme-stats)
 
 - 👋 Olá, sou André Monteiro, Engenheiro de Software, MCSA e MCSD pela Microsoft desde 2018;
