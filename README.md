@@ -1,3 +1,6 @@
+![andremonteirocb's GitHub stats](https://github-readme-stats.vercel.app/api?username=andremonteirocb&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremonteirocb&layout=compact)](https://github.com/andremonteirocb/github-readme-stats)
+
 - 👋 Olá, sou André Monteiro, Engenheiro de Software, MCSA e MCSD pela Microsoft desde 2018;
 - 👀 Interessado em .NET, Angular, Ionic, Banco de dados (Sql Server) com Micro ORM Dapper e o ORM Entity Framework, Azure Devops (controle do código, criação de builds (pipelines) e integração contínua (releases);
 - 🌱 Atualmente tenho estudado sobre Message Broker (RabbitMQ e Azure Service Bus), sempre busco o aperfeiçoamento nas tecnologias citadas acima, através das plataformas de ensino @desenvolvedor.io, @balta.io, @loainetranning e vídeos no youtube de profissionais que acredito serem referências;
