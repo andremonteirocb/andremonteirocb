@@ -2,11 +2,11 @@
 
 - 👋 Olá, sou André Monteiro, Engenheiro de Software, MCSA e MCSD pela Microsoft desde 2018;
 - 👀 Interessado em .NET, Angular, Ionic, Banco de dados (Sql Server) com Micro ORM Dapper e o ORM Entity Framework, Azure Devops (controle do código, criação de builds (pipelines) e integração contínua (releases);
-- 🌱 Atualmente tenho estudado sobre:
--> Message Broker (RabbitMQ, Queue Storage e Azure Service Bus);
--> Elastic Stack (Elasticsearch, Kibana, Logstash e Elastic APM);
--> Azure Function;
--> Docker.
+- 🌱 Atualmente tenho estudado sobre:<br />
+-> Message Broker (RabbitMQ, Queue Storage e Azure Service Bus);<br />
+-> Elastic Stack (Elasticsearch, Kibana, Logstash e Elastic APM);<br />
+-> Azure Function;<br />
+-> Docker.<br />
 
 Sempre buscando o aperfeiçoamento nas tecnologias citadas acima, através das plataformas de ensino @desenvolvedor.io, @balta.io, @loainetranning e vídeos no youtube de profissionais que acredito serem referências;
 <br />
