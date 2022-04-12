@@ -4,7 +4,7 @@
 - 👀 Interessado em .NET, Angular, Ionic, Banco de dados (Sql Server) com Micro ORM Dapper e o ORM Entity Framework, Azure Devops (controle do código, criação de builds (pipelines) e integração contínua (releases);
 - 🌱 Atualmente tenho estudado sobre:<br />
 -> Message Broker (RabbitMQ, Queue Storage e Azure Service Bus);<br />
--> Elastic Stack (Elasticsearch, Kibana, Logstash e Elastic APM);<br />
+-> Elastic Stack (Elasticsearch, Kibana, Logstash e Beats);<br />
 -> Azure Function;<br />
 -> Docker.<br />
 
