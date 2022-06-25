@@ -8,7 +8,7 @@
 -> Azure Function;<br />
 -> Docker.<br />
 
-Sempre busco o aperfeiçoamento nas tecnologias citadas acima, através das plataformas de ensino @desenvolvedor.io, @balta.io, @gago.io, @loainetranning e vídeos no youtube de profissionais que acredito serem referências;
+Sempre busco o aperfeiçoamento nas tecnologias citadas acima, através das plataformas de ensino @desenvolvedor.io, @balta.io, @gago.io, @luisdev, @loainetranning e vídeos no youtube de profissionais que acredito serem referências;
 <br />
 📫 Caso tenham interesse em contribuir fiquem a vontade, melhorias, sugestões e correções serão sempre muito bem vindas - [Linkedin](https://www.linkedin.com/in/andr%C3%A9-monteiro-a0510428);
 <!---
