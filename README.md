@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremonteirocb&layout=compact)](https://github.com/andremonteirocb/github-readme-stats)
 
-- 👋 Olá, sou André Monteiro, Engenheiro de Software e Desenvolvedor .NET Sênior;
+- 👋 Olá, sou André Monteiro;
 - 👀 Interessado em .NET, Arquitetura de Software, Azure Devops e Azure; 
 - 🌱 Atualmente tenho estudado sobre:<br />
 -> Azure, pois estou me preparando para certificação AZ-204;
