@@ -1,12 +1,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremonteirocb&layout=compact)](https://github.com/andremonteirocb/github-readme-stats)
 
 - 👋 Olá, sou André Monteiro, Engenheiro de Software, Desenvolvedor .NET Sênior, Microsoft MCSD desde 2018;
-- 👀 Interessado em .NET, Banco de dados (Sql Server) com Micro ORM Dapper e o ORM Entity Framework, Azure Devops (controle do código, criação de builds (pipelines) e integração contínua (releases);
+- 👀 Interessado em .NET, Banco de dados (Sql Server) com Micro ORM Dapper e o ORM Entity Framework, Azure Devops (controle do código, criação de builds (pipelines) e integração contínua (releases).
 - 🌱 Atualmente tenho estudado sobre:<br />
--> Message Broker (RabbitMQ, Queue Storage e Azure Service Bus);<br />
--> Elastic Stack (Elasticsearch, Kibana, Logstash e Beats);<br />
--> Azure Function;<br />
--> Docker.<br />
+-> Azure, pois estou me preparando para certificação AZ-204;
 
 Sempre busco o aperfeiçoamento nas tecnologias citadas acima, através das plataformas de ensino @desenvolvedor.io, @balta.io, @gago.io, @luisdev, @loainetranning e vídeos no youtube de profissionais que acredito serem referências;
 <br />
