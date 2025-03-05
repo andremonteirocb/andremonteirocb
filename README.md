@@ -2,7 +2,7 @@
 
 - 👋 Olá, sou André Monteiro;
 - 👀 Interessado em .NET, Engenheiro de Software, Azure Devops e Azure; 
-- 🌱 Atualmente tenho estudado sobre Azure tendo obtido as certificações az-900 e az-204, agora estou me preparando para a certificação AZ-400;
+- 🌱 Atualmente tenho estudado sobre Azure tendo obtido as certificações az-900 e az-204, agora estou me preparando para a certificação AI-90;
 
 Sempre busco o aperfeiçoamento nas tecnologias citadas acima, através das plataformas de ensino @desenvolvedor.io, @balta.io, @gago.io, @luisdev, @loainetranning e vídeos no youtube de profissionais que acredito serem referências;
 <br />
